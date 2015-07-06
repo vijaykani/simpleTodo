@@ -1,3 +1,29 @@
 {
-name
+  "name": "simpleTodo",
+  "version": "1.0.0",
+  "description": "(This is my first simple todo. with some new features)",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.3.2",
+    "express": "^4.13.1",
+    "http": "^0.0.0",
+    "path": "^0.11.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "(Working Todo)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vijaykani/simpleTodo.git"
+  },
+  "keywords": [
+    "(simpletodo)"
+  ],
+  "author": " (Vijay Kani)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijaykani/simpleTodo/issues"
+  },
+  "homepage": "https://github.com/vijaykani/simpleTodo"
 }
